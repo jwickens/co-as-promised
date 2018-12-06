@@ -1,0 +1,22 @@
+{
+  "name": "co-as-promised",
+  "version": "1.0.0",
+  "description": "Convert wrapped co functions < 4.0.0 into promises",
+  "main": "co-as-promised.js",
+  "repository": {
+    "type": "git",
+    "url": "https:github.com:jwickens/co-as-promised.git"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jonathan R Wickens",
+  "license": "MIT",
+  "devDependencies": {
+    "co": "^3.1.0",
+    "jest": "^23.6.0"
+  },
+  "peerDependencies": {
+    "co": "<4.0.0"
+  }
+}
