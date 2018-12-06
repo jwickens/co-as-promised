@@ -1,6 +1,6 @@
 {
   "name": "co-as-promised",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert wrapped co functions < 4.0.0 into promises",
   "main": "co-as-promised.js",
   "repository": {
